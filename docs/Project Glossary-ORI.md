@@ -1,0 +1,7 @@
+# OSWN Project Glossary
+| Term | Definition | Example |
+|------|------------|---------|
+| EPSG:3857 | Web Mercator coordinate system | Used for all georeferencing |
+| PipeSegment | A single pipe between two nodes | Length, diameter, material, slope |
+| Node | Junction, manhole, or fitting | x, y, z coordinates, type ID |
+| .oswn | Custom JSON format for project save | See schema.json |
